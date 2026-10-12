@@ -1,0 +1,222 @@
+{
+  "c6f0856d-27a1-4731-a0fa-7c8d4a41c398": {
+    "title": "General",
+    "source": "Outline:c6f0856d-27a1-4731-a0fa-7c8d4a41c398",
+    "target": "01-General/README.md"
+  },
+  "db5cee39-3553-4a71-8656-75d8e068ead7": {
+    "title": "Навигация и интерфейс | Navigation and Interface basics",
+    "source": "Outline:db5cee39-3553-4a71-8656-75d8e068ead7",
+    "target": "01-General/01-Навигация-и-интерфейс-Navigation-and-Interface-basics.md"
+  },
+  "3afff4b1-31bb-4c81-8ad0-b4534f9d0b5b": {
+    "title": "Виды форм и отчётов | Document and Reports forms",
+    "source": "Outline:3afff4b1-31bb-4c81-8ad0-b4534f9d0b5b",
+    "target": "01-General/02-Виды-форм-и-отчётов-Document-and-Reports-forms.md"
+  },
+  "56455510-f5fd-4642-9518-33aaa3d27aad": {
+    "title": "Валютные курсы | Exchange rates",
+    "source": "Outline:56455510-f5fd-4642-9518-33aaa3d27aad",
+    "target": "01-General/03-Валютные-курсы-Exchange-rates.md"
+  },
+  "079d7f68-11ba-4bfc-9c75-e24a7a0c5e80": {
+    "title": "Назначение Динамического отчёта",
+    "source": "Outline:079d7f68-11ba-4bfc-9c75-e24a7a0c5e80",
+    "target": "01-General/04-Назначение-Динамического-отчёта.md"
+  },
+  "b2129476-e1a8-456e-a9a7-c44d2b8d8d1c": {
+    "title": "Утверждение Документа | Documents Approval",
+    "source": "Outline:b2129476-e1a8-456e-a9a7-c44d2b8d8d1c",
+    "target": "01-General/05-Утверждение-Документа-Documents-Approval.md"
+  },
+  "0ad17f6a-2f8d-492d-a0b3-753d7bd3070d": {
+    "title": "Master Data",
+    "source": "Outline:0ad17f6a-2f8d-492d-a0b3-753d7bd3070d",
+    "target": "02-Master-Data/README.md"
+  },
+  "55dccdb7-e67c-43ac-9791-d398d60e77ca": {
+    "title": "#Карточка БП | Business Partner Master Data",
+    "source": "Outline:55dccdb7-e67c-43ac-9791-d398d60e77ca",
+    "target": "02-Master-Data/01-Карточка-БП-Business-Partner-Master-Data.md"
+  },
+  "9557994b-6255-4513-b32c-1c0ed80a92f2": {
+    "title": "Карточка товара | Item Master",
+    "source": "Outline:9557994b-6255-4513-b32c-1c0ed80a92f2",
+    "target": "02-Master-Data/02-Карточка-товара-Item-Master.md"
+  },
+  "9a44055f-da7e-444d-95af-e63c7ebcc7d6": {
+    "title": "Спецификация \\ Bill Of Materials",
+    "source": "Outline:9a44055f-da7e-444d-95af-e63c7ebcc7d6",
+    "target": "02-Master-Data/03-Спецификация-Bill-Of-Materials.md"
+  },
+  "82fd6eed-f11f-4ec8-a799-56b36392ddd2": {
+    "title": "Массовое обновление Спецификаций",
+    "source": "Outline:82fd6eed-f11f-4ec8-a799-56b36392ddd2",
+    "target": "02-Master-Data/04-Массовое-обновление-Спецификаций.md"
+  },
+  "119d2e68-a7a9-4379-9f14-37768caac320": {
+    "title": "Finance",
+    "source": "Outline:119d2e68-a7a9-4379-9f14-37768caac320",
+    "target": "03-Finance/README.md"
+  },
+  "93df0550-411b-4e84-af5b-311f879227e8": {
+    "title": "План счетов | Chart Of Accounts",
+    "source": "Outline:93df0550-411b-4e84-af5b-311f879227e8",
+    "target": "03-Finance/01-План-счетов-Chart-Of-Accounts.md"
+  },
+  "d12a64e7-9dd6-432f-9670-1aab04ccc996": {
+    "title": "Бухгалтерская операция | Journal Entry",
+    "source": "Outline:d12a64e7-9dd6-432f-9670-1aab04ccc996",
+    "target": "03-Finance/02-Бухгалтерская-операция-Journal-Entry.md"
+  },
+  "1ebdfc7a-ebc9-4dd0-b884-9229630d06be": {
+    "title": "Выверка | Reconciliation",
+    "source": "Outline:1ebdfc7a-ebc9-4dd0-b884-9229630d06be",
+    "target": "03-Finance/03-Выверка-Reconciliation.md"
+  },
+  "7ca82fca-241f-40f9-99b6-2fc9b7fad120": {
+    "title": "Платежи | Payments",
+    "source": "Outline:7ca82fca-241f-40f9-99b6-2fc9b7fad120",
+    "target": "03-Finance/04-Платежи-Payments/README.md"
+  },
+  "679a0094-bbec-4f2d-908f-a5c53a83cda2": {
+    "title": "Исходящий платеж | Outgoing Payment",
+    "source": "Outline:679a0094-bbec-4f2d-908f-a5c53a83cda2",
+    "target": "03-Finance/04-Платежи-Payments/01-Исходящий-платеж-Outgoing-Payment.md"
+  },
+  "6117118d-a315-4e6e-88d0-afd900591dc8": {
+    "title": "Входящий платёж | Incoming Payment",
+    "source": "Outline:6117118d-a315-4e6e-88d0-afd900591dc8",
+    "target": "03-Finance/04-Платежи-Payments/02-Входящий-платёж-Incoming-Payment.md"
+  },
+  "611b6223-62b5-46f1-b259-c2dd8e536b4f": {
+    "title": "Финансовые отчёты",
+    "source": "Outline:611b6223-62b5-46f1-b259-c2dd8e536b4f",
+    "target": "03-Finance/05-Финансовые-отчёты/README.md"
+  },
+  "7d252396-958d-4dca-8887-6a50f8d306d0": {
+    "title": "Задолженность | Ageing",
+    "source": "Outline:7d252396-958d-4dca-8887-6a50f8d306d0",
+    "target": "03-Finance/05-Финансовые-отчёты/01-Задолженность-Ageing.md"
+  },
+  "b28bd36a-84a6-43ad-ad4e-cc8e9a270b1d": {
+    "title": "Отчёт о прибылях и убытках | PnL",
+    "source": "Outline:b28bd36a-84a6-43ad-ad4e-cc8e9a270b1d",
+    "target": "03-Finance/05-Финансовые-отчёты/02-Отчёт-о-прибылях-и-убытках-PnL.md"
+  },
+  "d0d02279-3afb-4758-89d9-c0dd080e01aa": {
+    "title": "Баланс |  Balance",
+    "source": "Outline:d0d02279-3afb-4758-89d9-c0dd080e01aa",
+    "target": "03-Finance/05-Финансовые-отчёты/03-Баланс-Balance.md"
+  },
+  "806764a3-04ca-478e-a381-fc5a94bce739": {
+    "title": "Sales",
+    "source": "Outline:806764a3-04ca-478e-a381-fc5a94bce739",
+    "target": "04-Sales/README.md"
+  },
+  "10c809fa-a9ce-49e2-bfbe-01f07669f845": {
+    "title": "Договор Продаж | Sales Blanket Agreemеnt",
+    "source": "Outline:10c809fa-a9ce-49e2-bfbe-01f07669f845",
+    "target": "04-Sales/01-Договор-Продаж-Sales-Blanket-Agreemеnt.md"
+  },
+  "e0096177-5475-4926-b959-28ee54916d66": {
+    "title": "Коммерческое Предложение | Sales Quotation",
+    "source": "Outline:e0096177-5475-4926-b959-28ee54916d66",
+    "target": "04-Sales/02-Коммерческое-Предложение-Sales-Quotation.md"
+  },
+  "55b37b09-59e9-4cb6-85c5-a93bf34afe5c": {
+    "title": "Расчёт потребности | Demand calculation",
+    "source": "Outline:55b37b09-59e9-4cb6-85c5-a93bf34afe5c",
+    "target": "04-Sales/03-Расчёт-потребности-Demand-calculation.md"
+  },
+  "32c15676-0592-4d60-9b1d-200214a4ce2b": {
+    "title": "Заказ на продажу | Sales Order",
+    "source": "Outline:32c15676-0592-4d60-9b1d-200214a4ce2b",
+    "target": "04-Sales/04-Заказ-на-продажу-Sales-Order.md"
+  },
+  "b2287fa3-35b1-4984-8522-77f4ad5e66fb": {
+    "title": "Счёт на предоплату | Downpayment Invoice",
+    "source": "Outline:b2287fa3-35b1-4984-8522-77f4ad5e66fb",
+    "target": "04-Sales/05-Счёт-на-предоплату-Downpayment-Invoice.md"
+  },
+  "9bbdf8da-577c-4a97-9290-a6f84f20224f": {
+    "title": "Отгрузка | Delivery",
+    "source": "Outline:9bbdf8da-577c-4a97-9290-a6f84f20224f",
+    "target": "04-Sales/06-Отгрузка-Delivery.md"
+  },
+  "03fdf26f-9f94-4c08-be6e-ca0259111440": {
+    "title": "Продажа | A/R Invoice",
+    "source": "Outline:03fdf26f-9f94-4c08-be6e-ca0259111440",
+    "target": "04-Sales/07-Продажа-A-R-Invoice.md"
+  },
+  "4b432b3e-173d-466d-87ac-e669f5ac5542": {
+    "title": "Отмена Продажи | A/R Credit Memo",
+    "source": "Outline:4b432b3e-173d-466d-87ac-e669f5ac5542",
+    "target": "04-Sales/08-Отмена-Продажи-A-R-Credit-Memo.md"
+  },
+  "edc18d5d-5448-4a7c-9e28-127094f85442": {
+    "title": "Purchase",
+    "source": "Outline:edc18d5d-5448-4a7c-9e28-127094f85442",
+    "target": "05-Purchase/README.md"
+  },
+  "7b33d1c3-dc2f-45db-8f26-205c61b4d2d8": {
+    "title": "Заявка на закупку | Purchase request",
+    "source": "Outline:7b33d1c3-dc2f-45db-8f26-205c61b4d2d8",
+    "target": "05-Purchase/01-Заявка-на-закупку-Purchase-request.md"
+  },
+  "b115bffb-ed48-49e8-a6ee-77bb425711e9": {
+    "title": "Заказ за закупку из Заявки | From PR to PO",
+    "source": "Outline:b115bffb-ed48-49e8-a6ee-77bb425711e9",
+    "target": "05-Purchase/02-Заказ-за-закупку-из-Заявки-From-PR-to-PO.md"
+  },
+  "a4665879-8e5c-4ca4-8f24-730d33938404": {
+    "title": "#Заказ на закупку без заявки | Purchase order",
+    "source": "Outline:a4665879-8e5c-4ca4-8f24-730d33938404",
+    "target": "05-Purchase/03-Заказ-на-закупку-без-заявки-Purchase-order.md"
+  },
+  "496c629e-237a-487c-b506-c9316556e636": {
+    "title": "Счёт на предоплату | Downpayment Invoice",
+    "source": "Outline:496c629e-237a-487c-b506-c9316556e636",
+    "target": "05-Purchase/04-Счёт-на-предоплату-Downpayment-Invoice.md"
+  },
+  "a1a25978-00a2-48a4-8b70-f7d40bb760e4": {
+    "title": "Поступление | GRPO",
+    "source": "Outline:a1a25978-00a2-48a4-8b70-f7d40bb760e4",
+    "target": "05-Purchase/05-Поступление-GRPO.md"
+  },
+  "0808502e-c3d8-4811-8252-2a933998d04f": {
+    "title": "Закупка | A/P Invoice",
+    "source": "Outline:0808502e-c3d8-4811-8252-2a933998d04f",
+    "target": "05-Purchase/06-Закупка-A-P-Invoice.md"
+  },
+  "5dfe86ef-d002-467f-832a-5d011f1dcdca": {
+    "title": "Production",
+    "source": "Outline:5dfe86ef-d002-467f-832a-5d011f1dcdca",
+    "target": "06-Production/README.md"
+  },
+  "d69a174a-5885-4486-81ee-7f48b8161088": {
+    "title": "Производственный заказ | Production Order",
+    "source": "Outline:d69a174a-5885-4486-81ee-7f48b8161088",
+    "target": "06-Production/01-Производственный-заказ-Production-Order.md"
+  },
+  "e5272322-06f9-49ca-ba68-5f5e9c37079a": {
+    "title": "Warehousing",
+    "source": "Outline:e5272322-06f9-49ca-ba68-5f5e9c37079a",
+    "target": "07-Warehousing/README.md"
+  },
+  "9b424379-a80b-4b44-8176-3d83f8ea4579": {
+    "title": "Выбытие товара | Goods issue",
+    "source": "Outline:9b424379-a80b-4b44-8176-3d83f8ea4579",
+    "target": "07-Warehousing/01-Выбытие-товара-Goods-issue.md"
+  },
+  "a635cee0-7d25-4e51-b964-f83f54d075b6": {
+    "title": "Перемещение запаса | Inventory transfer",
+    "source": "Outline:a635cee0-7d25-4e51-b964-f83f54d075b6",
+    "target": "07-Warehousing/02-Перемещение-запаса-Inventory-transfer.md"
+  },
+  "3a87a066-90f7-42da-b78b-b25b91add81f": {
+    "title": "# Инвентаризация | Inventory Counting",
+    "source": "Outline:3a87a066-90f7-42da-b78b-b25b91add81f",
+    "target": "07-Warehousing/03-Инвентаризация-Inventory-Counting.md"
+  }
+}
