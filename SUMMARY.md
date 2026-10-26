@@ -39,6 +39,7 @@
   * [Поступление | GRPO](05-Purchase/05-Поступление-GRPO.md)
   * [Закупка | A/P Invoice](05-Purchase/06-Закупка-A-P-Invoice.md)
   * [Возврат | Goods Return](05-Purchase/07-Возврат-Goods-Return.md)
+  * [Закупка услуг по контракту](05-Purchase/06-B-Закупка-Услуг-A-P-Invoice-Service.md)
 * [Production](06-Production/README.md)
   * [Производственный заказ | Production Order](06-Production/01-Производственный-заказ-Production-Order.md)
 * [Warehousing](07-Warehousing/README.md)
