@@ -6,6 +6,7 @@
   * [Валютные курсы | Exchange rates](01-General/03-Валютные-курсы-Exchange-rates.md)
   * [Назначение Динамического отчёта](01-General/04-Назначение-Динамического-отчёта.md)
   * [Утверждение Документа | Documents Approval](01-General/05-Утверждение-Документа-Documents-Approval.md)
+  * [Настройка видимости полей](01-General/06-Настройка-Формы-Forms-Settings.md)
 * [Master Data](02-Master-Data/README.md)
   * [#Карточка БП | Business Partner Master Data](02-Master-Data/01-Карточка-БП-Business-Partner-Master-Data.md)
   * [Карточка товара | Item Master](02-Master-Data/02-Карточка-товара-Item-Master.md)
