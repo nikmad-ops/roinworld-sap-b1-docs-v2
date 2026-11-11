@@ -11,6 +11,7 @@
   * [Карточка товара | Item Master](02-Master-Data/02-Карточка-товара-Item-Master.md)
   * [Спецификация \ Bill Of Materials](02-Master-Data/03-Спецификация-Bill-Of-Materials.md)
   * [Массовое обновление Спецификаций](02-Master-Data/04-Массовое-обновление-Спецификаций.md)
+  * [Meals\Комплекты](02-Master-Data/05-Обеды-Meals.md)
 * [Finance](03-Finance/README.md)
   * [План счетов | Chart Of Accounts](03-Finance/01-План-счетов-Chart-Of-Accounts.md)
   * [Бухгалтерская операция | Journal Entry](03-Finance/02-Бухгалтерская-операция-Journal-Entry.md)
