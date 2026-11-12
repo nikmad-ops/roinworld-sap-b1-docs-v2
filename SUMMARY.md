@@ -18,6 +18,7 @@
   * [Бухгалтерская операция | Journal Entry](03-Finance/02-Бухгалтерская-операция-Journal-Entry.md)
   * [Выверка | Reconciliation](03-Finance/03-Выверка-Reconciliation.md)
   * [Подотчётные лица | Accountable persons](03-Finance/05-Подотчётные-лице-Accountable-persons.md)
+  * [Специальные счета ГК](03-Finance/07-Специальные-счета-Special-GL-Accounts.md)
   * [Платежи | Payments](03-Finance/04-Платежи-Payments/README.md)
     * [Исходящий платеж | Outgoing Payment](03-Finance/04-Платежи-Payments/01-Исходящий-платеж-Outgoing-Payment.md)
     * [Входящий платёж | Incoming Payment](03-Finance/04-Платежи-Payments/02-Входящий-платёж-Incoming-Payment.md)
