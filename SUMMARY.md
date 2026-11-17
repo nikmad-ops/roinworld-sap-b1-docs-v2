@@ -46,6 +46,7 @@
   * [Закупка услуг по контракту](05-Purchase/06-B-Закупка-Услуг-A-P-Invoice-Service.md)
 * [Production](06-Production/README.md)
   * [Производственный заказ | Production Order](06-Production/01-Производственный-заказ-Production-Order.md)
+  * [Отмена производственного заказа и цепочки связанных документов](06-Production/02-Отмена-Производственной-цепочки-Document-cancellation.md)
 * [Warehousing](07-Warehousing/README.md)
   * [Выбытие товара | Goods issue](07-Warehousing/01-Выбытие-товара-Goods-issue.md)
   * [Перемещение запаса | Inventory transfer](07-Warehousing/02-Перемещение-запаса-Inventory-transfer.md)
