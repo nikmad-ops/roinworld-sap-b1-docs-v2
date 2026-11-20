@@ -51,7 +51,7 @@
   * [Выбытие товара | Goods issue](07-Warehousing/01-Выбытие-товара-Goods-issue.md)
   * [Списание по сроку годности | Expired goods write off](07-Warehousing/Списание-по-сроку-годности-Goods-issue-Expired.md)
   * [Перемещение запаса | Inventory transfer](07-Warehousing/02-Перемещение-запаса-Inventory-transfer.md)
-  * [# Инвентаризация | Inventory Counting](07-Warehousing/03-Инвентаризация-Inventory-Counting.md)
+  * [Инвентаризация | Inventory Counting](07-Warehousing/03-Инвентаризация-Inventory-Counting.md)
   * [Выдача МОС | Small Cost Item management](07-Warehousing/04-Выдача-МОC-Small-Cost-Items-management.md)
   
     
